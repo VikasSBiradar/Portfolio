@@ -97,4 +97,7 @@
     .text-container {
       text-align: justify;
     }
+    .section__text{
+      margin-top: 175px;
+    }
   }
